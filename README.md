@@ -15,6 +15,9 @@
 
 张丁元 `<zhangdingyuan@uniontech.com>`
 
+## 赛题分类
+系统调试/支撑库的设计
+
 ## 难度
 
 低
