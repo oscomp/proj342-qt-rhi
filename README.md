@@ -13,7 +13,7 @@
 
 ## 项目导师
 
-张丁元 `<zhangdingyuan@uniontech.com>`
+陆红旭 `<luhongxu@deepin.org>`
 
 ## 赛题分类
 系统调试/支撑库的设计
